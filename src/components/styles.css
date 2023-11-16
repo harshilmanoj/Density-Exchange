@@ -1,0 +1,8 @@
+.mainPhoto{
+    width: 100% !important;
+    transform: translateX(500px) !important;
+    transition-property: transform !important;
+  transition-duration: 2s !important;
+  transition-timing-function: linear !important;
+  transition-delay: 1s !important;
+}
